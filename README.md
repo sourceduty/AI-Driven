@@ -25,3 +25,5 @@ AI-driven discovery represents a transformative shift in scientific methodology,
 [AI Network](https://chatgpt.com/g/g-67b59886ece88191b42d753aeb23c800-ai-network)
 <br>
 [Neurons](https://github.com/sourceduty/Neurons)
+<br>
+[AI-Quantum](https://chatgpt.com/g/g-67b5b2143dfc8191bcadc55a580e96a0-ai-quantum)
